@@ -8,7 +8,7 @@ export default function HeroPage(){
   <div className="hero-content flex-col lg:flex-row-reverse">
     <img
       src={heroImage}
-      className="max-w-lg rounded-lg shadow-2xl" />
+      className="w-md rounded-lg shadow-2xl lg:max-w-lg" />
     <div>
       <h1 className="text-5xl font-bold">IT in Agriculture</h1>
       <p className="py-6">
