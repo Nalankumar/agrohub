@@ -9,7 +9,7 @@ import bigdata from './../assets/bigdata.jpg'
 
 export default function Carousal(){
 	return (
-		<div className="carousel rounded-box">
+		<div className="carousel rounded-box w-[90vw] lg:w-[75vw]">
 		  <div className="carousel-item">
 		    <Card name="Irrigation System" desc="This is irrigation system" img={irrigation_system} url="/IrrigationSystem"/>
 		  </div>
