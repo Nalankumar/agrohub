@@ -7,7 +7,7 @@ import {
 } from "react-router-dom";
 import './index.css'
 import App from './App.jsx'
-import Bigdata from './routes/Bigdata'
+import BigData from './routes/BigData'
 import CropBreeding from './routes/CropBreeding'
 import PrecisionAgriculture from './routes/PrecisionAgriculture'
 import IrrigationSystem from './routes/IrrigationSystem'
@@ -22,7 +22,7 @@ const router = createBrowserRouter([
   },
   {
     path: "/BigData",
-    element: <Bigdata />,
+    element: <BigData />,
   },
   {
     path: "/CropBreeding",
