@@ -8,7 +8,7 @@ import {
 import './index.css'
 import App from './App.jsx'
 import BigData from './routes/BigData'
-import CropBreeding from './routes/CropBreeding'
+import CropBreed from './routes/CropBreed'
 import PrecisionAgriculture from './routes/PrecisionAgriculture'
 import IrrigationSystem from './routes/IrrigationSystem'
 import VerticalFarming from './routes/VerticalFarming'
@@ -25,8 +25,8 @@ const router = createBrowserRouter([
     element: <BigData />,
   },
   {
-    path: "/CropBreeding",
-    element: <CropBreeding />,
+    path: "/CropBreed",
+    element: <CropBreed />,
   },
   {
     path: "/PrecisionAgriculture",
