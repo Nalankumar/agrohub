@@ -1,5 +1,5 @@
 
-export default function CropBreeding(){
+export default function cropBreeding(){
 	return (
 		<div className="hero bg-base-200 min-h-screen">
 		  <div className="hero-content text-center">
