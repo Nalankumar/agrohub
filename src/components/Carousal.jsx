@@ -17,7 +17,7 @@ export default function Carousal(){
 		    <Card name="Artificial Intellence in Agriculture" desc="This is irrigation system" img={aiml} url="/AIML"/>
 		  </div>
 		  <div className="carousel-item">
-		    <Card name="Crop Breeding" desc="This is irrigation system" img={crop_breeding} url="/CropBreeding"/>
+		    <Card name="Crop Breeding" desc="This is Crop Breeding" img={crop_breeding} url="/CropBreeding"/>
 		  </div>
 		  <div className="carousel-item">
 		    <Card name="Precision Agriculture" desc="This is irrigation system" img={precision_agriculture} url="/PrecisionAgriculture" />
