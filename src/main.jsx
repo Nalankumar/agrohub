@@ -25,7 +25,7 @@ const router = createBrowserRouter([
     element: <BigData />,
   },
   {
-    path: "/CropBreed",
+    path: "/CropBreeding",
     element: <CropBreed />,
   },
   {
