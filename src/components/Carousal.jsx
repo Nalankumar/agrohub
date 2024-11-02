@@ -11,25 +11,25 @@ export default function Carousal(){
 	return (
 		<div className="carousel rounded-box w-[90vw] lg:w-[75vw]">
 		  <div className="carousel-item">
-		    <Card name="Irrigation System" desc="This is irrigation system" img={irrigation_system} url="/IrrigationSystem"/>
+		    <Card name="Irrigation System" desc="A Smart Irrigation System that optimizes water usage by monitoring soil moisture, weather conditions, and plant needs to deliver efficient and sustainable watering solutions" img={irrigation_system} url="/IrrigationSystem"/>
 		  </div>
 		  <div className="carousel-item">
-		    <Card name="Artificial Intellence in Agriculture" desc="This is irrigation system" img={aiml} url="/AIML"/>
+		    <Card name="Artificial Intellence in Agriculture" desc="AI in agriculture enhances crop yields and sustainability through data-driven precision and predictive insights" img={aiml} url="/AIML"/>
 		  </div>
 		  <div className="carousel-item">
-		    <Card name="Crop Breeding" desc="This is Crop Breeding" img={crop_breeding} url="/CropBreeding"/>
+		    <Card name="Crop Breeding" desc="Crop breeding improves plant traits like yield, resilience, and nutrition by selecting and crossbreeding superior varieties" img={crop_breeding} url="/CropBreeding"/>
 		  </div>
 		  <div className="carousel-item">
-		    <Card name="Precision Agriculture" desc="This is irrigation system" img={precision_agriculture} url="/PrecisionAgriculture" />
+		    <Card name="Precision Agriculture" desc="Precision agriculture uses data and technology to optimize farming practices, ensuring efficient resource use and improved crop yields" img={precision_agriculture} url="/PrecisionAgriculture" />
 		  </div>
 		  <div className="carousel-item">
-		   	<Card name="Big Data in Agriculture" desc="Big data in agriculutre" img={bigdata} url="/BigData"/>
+		   	<Card name="Big Data in Agriculture" desc="Big data involves analyzing vast amounts of information to uncover patterns, trends, and insights, driving informed decisions across various industries" img={bigdata} url="/BigData"/>
 		  </div>
 		  <div className="carousel-item">
-		    <Card name="Vertical Farming" desc="This is irrigation system" img={vertical_farming} url="/VerticalFarming"/>
+		    <Card name="Vertical Farming" desc="Vertical farming is a method of growing crops in stacked layers, often indoors, using controlled environments to maximize space and resource efficiency" img={vertical_farming} url="/VerticalFarming"/>
 		  </div>
 		  <div className="carousel-item">
-		   	<Card name="Drone Crop Monitoring" desc="This is irrigation system" img={drone_in_it} url="/DroneCropMonitoring"/>
+		   	<Card name="Drone Crop Monitoring" desc="Drone crop monitoring uses aerial imaging to assess crop health, detect pests, and optimize farm management through real-time data collection" img={drone_in_it} url="/DroneCropMonitoring"/>
 		  </div>
 		</div>
 	)
