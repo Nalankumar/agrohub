@@ -1,7 +1,7 @@
 export default function Card(props){
 	return(
-		<div className="card bg-base-100 w-96 shadow-xl mx-5">
-		  <figure className="px-10 pt-10">
+		<div className="card bg-base-100 w-96 shadow-xl mx-1 lg:mx-5">
+		  <figure className="px-6 pt-10 lg:px-10">
 		    <img
 		      src={props.img}
 		      alt={props.name}
