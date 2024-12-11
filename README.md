@@ -5,6 +5,12 @@
   
 Checkout: [Agrohub](https://agrohub100.netlify.app/)
 
+## Table of Contents
+- [Tech Stack](#tech-stack)
+- [Installation](#how-to-install)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
 
@@ -60,3 +66,6 @@ To install the project, follow these steps:
 3. Make your changes.
 4. Push your branch: `git push origin feature-name`.
 5. Create a pull request.
+
+## License
+This project is licensed under the [Apache-2.0](LICENSE).
