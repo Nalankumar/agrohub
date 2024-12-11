@@ -3,6 +3,9 @@
   
 Checkout: [Agrohub](https://agrohub100.netlify.app/)
 
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
+
 ## **How to install**
 To install the project, follow these steps:
 
